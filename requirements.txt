@@ -1,1 +1,7 @@
 fastapi
+fastapi-utils
+uvicorn[standard]
+python-magic
+python-multipart
+ujson
+opencv-python

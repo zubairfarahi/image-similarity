@@ -1,7 +1,5 @@
 # image-similarity
 
-[![pipeline status](https://git.ghpcard.local/dbelii/odapi-compare/badges/master/pipeline.svg)](https://git.ghpcard.local/dbelii/odapi-compare/-/commits/master)
-
 <div style="text-align:center"><img src="docs/intro.jpg" /></div>
 
 ### Description
