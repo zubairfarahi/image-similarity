@@ -5,3 +5,4 @@ python-magic
 python-multipart
 ujson
 opencv-python
+zlogger
